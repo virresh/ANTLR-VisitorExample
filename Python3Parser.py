@@ -1,4 +1,4 @@
-# Generated from ../grammars/Python3.g4 by ANTLR 4.7.1
+# Generated from grammar/Python3.g4 by ANTLR 4.7.1
 # encoding: utf-8
 from antlr4 import *
 from io import StringIO

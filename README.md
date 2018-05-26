@@ -7,3 +7,9 @@ Usage:
 ```
 python3 pyAntVisitor.py test.py
 ```
+
+
+For building everything via script requires the grammar file Name as argument
+```
+./runMe.sh Python3.g4
+```
